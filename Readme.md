@@ -101,13 +101,6 @@ CourseManagementAPI/
 └── 
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-- [.NET Core SDK 8.0](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
-- [Gmail Account](https://gmail.com) (for email service)
-
 ### Local Development Setup
 
 1. **Clone the repository**
@@ -116,13 +109,13 @@ git clone https://github.com/yourusername/CourseManagementAPI.git
 cd CourseManagementAPI
 ```
 
-2**Set up the database**
+2. **Set up the database**
 ```bash
 cd CourseManagementAPI.Api
 dotnet ef database update
 ```
 
-4. **Run the application**
+3. **Run the application**
 ```bash
 dotnet run
 ```
