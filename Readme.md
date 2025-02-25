@@ -1,4 +1,4 @@
-# 🛍️ Course Management API
+# Course Management API
 
 ## 📋 Overview
 A modern, scalable Course Management API built with .NET Core 9, implementing best practices.
