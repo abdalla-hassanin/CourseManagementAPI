@@ -1,0 +1,12 @@
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\bin\Release\net9.0\CourseManagementAPI.Data.deps.json
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\bin\Release\net9.0\CourseManagementAPI.Data.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\bin\Release\net9.0\CourseManagementAPI.Data.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\CourseManagementAPI.Data.csproj.AssemblyReference.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\CourseManagementAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\CourseManagementAPI.Data.AssemblyInfoInputs.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\CourseManagementAPI.Data.AssemblyInfo.cs
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\CourseManagementAPI.Data.csproj.CoreCompileInputs.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\CourseManagementAPI.Data.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\refint\CourseManagementAPI.Data.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\CourseManagementAPI.Data.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Release\net9.0\ref\CourseManagementAPI.Data.dll

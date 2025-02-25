@@ -1,0 +1,17 @@
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\bin\Production\net9.0\CourseManagementAPI.Service.deps.json
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\bin\Production\net9.0\CourseManagementAPI.Service.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\bin\Production\net9.0\CourseManagementAPI.Service.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\bin\Production\net9.0\CourseManagementAPI.Data.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\bin\Production\net9.0\CourseManagementAPI.Infrastructure.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\bin\Production\net9.0\CourseManagementAPI.Infrastructure.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\bin\Production\net9.0\CourseManagementAPI.Data.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\CourseManagementAPI.Service.csproj.AssemblyReference.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\CourseManagementAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\CourseManagementAPI.Service.AssemblyInfoInputs.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\CourseManagementAPI.Service.AssemblyInfo.cs
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\CourseManagementAPI.Service.csproj.CoreCompileInputs.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\CourseMa.4D427A11.Up2Date
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\CourseManagementAPI.Service.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\refint\CourseManagementAPI.Service.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\CourseManagementAPI.Service.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Service\obj\Production\net9.0\ref\CourseManagementAPI.Service.dll

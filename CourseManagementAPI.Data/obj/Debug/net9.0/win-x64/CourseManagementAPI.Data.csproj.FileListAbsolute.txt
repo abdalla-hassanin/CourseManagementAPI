@@ -1,0 +1,12 @@
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\bin\Debug\net9.0\win-x64\CourseManagementAPI.Data.deps.json
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\bin\Debug\net9.0\win-x64\CourseManagementAPI.Data.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\bin\Debug\net9.0\win-x64\CourseManagementAPI.Data.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\CourseManagementAPI.Data.csproj.AssemblyReference.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\CourseManagementAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\CourseManagementAPI.Data.AssemblyInfoInputs.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\CourseManagementAPI.Data.AssemblyInfo.cs
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\CourseManagementAPI.Data.csproj.CoreCompileInputs.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\CourseManagementAPI.Data.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\refint\CourseManagementAPI.Data.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\CourseManagementAPI.Data.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Data\obj\Debug\net9.0\win-x64\ref\CourseManagementAPI.Data.dll

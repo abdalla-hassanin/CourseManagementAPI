@@ -1,0 +1,17 @@
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\bin\Release\net8.0\CourseManagementAPI.Infrastructure.deps.json
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\bin\Release\net8.0\CourseManagementAPI.Infrastructure.runtimeconfig.json
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\bin\Release\net8.0\CourseManagementAPI.Infrastructure.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\bin\Release\net8.0\CourseManagementAPI.Infrastructure.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\bin\Release\net8.0\CourseManagementAPI.Data.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\bin\Release\net8.0\CourseManagementAPI.Data.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseManagementAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseManagementAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseManagementAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseManagementAPI.Infrastructure.AssemblyInfo.cs
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseManagementAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseMa.D276D74A.Up2Date
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseManagementAPI.Infrastructure.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\refint\CourseManagementAPI.Infrastructure.dll
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseManagementAPI.Infrastructure.pdb
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\CourseManagementAPI.Infrastructure.genruntimeconfig.cache
+D:\.net projects\CourseManagementAPI\CourseManagementAPI.Infrastructure\obj\Release\net8.0\ref\CourseManagementAPI.Infrastructure.dll

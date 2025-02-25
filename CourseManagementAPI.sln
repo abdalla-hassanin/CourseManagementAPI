@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseManagementAPI.Api", "CourseManagementAPI.Api\CourseManagementAPI.Api.csproj", "{72253E60-F969-4113-8082-C2E09D12AD45}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2DD5D4A2-687F-4782-8B3E-A6674F10C010} = {2DD5D4A2-687F-4782-8B3E-A6674F10C010}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseManagementAPI.Core", "CourseManagementAPI.Core\CourseManagementAPI.Core.csproj", "{2DD5D4A2-687F-4782-8B3E-A6674F10C010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseManagementAPI.Data", "CourseManagementAPI.Data\CourseManagementAPI.Data.csproj", "{BC3862C4-3AE6-4BA8-949C-14AB06358D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseManagementAPI.Service", "CourseManagementAPI.Service\CourseManagementAPI.Service.csproj", "{0F54D952-AA2F-4D3B-AF5F-EDAAE3E21C25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseManagementAPI.Infrastructure", "CourseManagementAPI.Infrastructure\CourseManagementAPI.Infrastructure.csproj", "{7683CDD8-33C3-4EAD-99DC-20813A449B5F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BC3862C4-3AE6-4BA8-949C-14AB06358D4B} = {BC3862C4-3AE6-4BA8-949C-14AB06358D4B}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72253E60-F969-4113-8082-C2E09D12AD45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72253E60-F969-4113-8082-C2E09D12AD45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72253E60-F969-4113-8082-C2E09D12AD45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72253E60-F969-4113-8082-C2E09D12AD45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DD5D4A2-687F-4782-8B3E-A6674F10C010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DD5D4A2-687F-4782-8B3E-A6674F10C010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DD5D4A2-687F-4782-8B3E-A6674F10C010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DD5D4A2-687F-4782-8B3E-A6674F10C010}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3862C4-3AE6-4BA8-949C-14AB06358D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3862C4-3AE6-4BA8-949C-14AB06358D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3862C4-3AE6-4BA8-949C-14AB06358D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3862C4-3AE6-4BA8-949C-14AB06358D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F54D952-AA2F-4D3B-AF5F-EDAAE3E21C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F54D952-AA2F-4D3B-AF5F-EDAAE3E21C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F54D952-AA2F-4D3B-AF5F-EDAAE3E21C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F54D952-AA2F-4D3B-AF5F-EDAAE3E21C25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7683CDD8-33C3-4EAD-99DC-20813A449B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7683CDD8-33C3-4EAD-99DC-20813A449B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7683CDD8-33C3-4EAD-99DC-20813A449B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7683CDD8-33C3-4EAD-99DC-20813A449B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
